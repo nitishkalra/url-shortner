@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.in/Apple-iPhone-13-Pro-128GB/dp/B09G99YPQM/ref=sr_1_10?crid=3F1V5S3WDJLVW&keywords=iphone&qid=1658315699&sprefix=iphone%2Caps%2C239&sr=8-10"
+}
